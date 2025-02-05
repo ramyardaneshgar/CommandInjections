@@ -1,5 +1,5 @@
 # HTB-Writeup-CommandInjections
-HackTheBox Writeup: Advanced Command Injections. 
+HackTheBox Writeup: Advanced Command Injections using Burp Suite, Intruder, curl, netcat, $IFS/$PATH manipulation, payload obfuscation, base64 encoding, and filter evasion techniques.
 
 By Ramyar Daneshgar
 
